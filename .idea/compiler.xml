@@ -9,8 +9,8 @@
         <module name="herostory" />
       </profile>
     </annotationProcessing>
-    <bytecodeTargetLevel>
-      <module name="herostory" target="1.5" />
+    <bytecodeTargetLevel target="8">
+      <module name="herostory" target="8" />
     </bytecodeTargetLevel>
   </component>
 </project>
